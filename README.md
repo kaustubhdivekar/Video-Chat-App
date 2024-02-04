@@ -1,0 +1,1 @@
+Go to your browser and type `http://127.0.0.1:3030/` in the address bar.
